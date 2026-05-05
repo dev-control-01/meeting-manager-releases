@@ -1,8 +1,8 @@
 {
   "version": "5.3.3",
   "notes": "Estetica PDF: bullet •, hr spaziato, heading senza orphan. Release ora pubbliche per auto-update.",
-  "mac": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.3.3/Meeting%20Manager-5.3.3-arm64.dmg",
-  "mac_arm64": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.3.3/Meeting%20Manager-5.3.3-arm64.dmg",
-  "mac_x64": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.3.3/Meeting%20Manager-5.3.3.dmg",
+  "mac": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.3.3/Meeting.Manager-5.3.3-arm64.dmg",
+  "mac_arm64": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.3.3/Meeting.Manager-5.3.3-arm64.dmg",
+  "mac_x64": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.3.3/Meeting.Manager-5.3.3.dmg",
   "win": "https://github.com/dev-control-01/meeting-manager-v5/releases/download/v5.0.6/Meeting.Manager.Setup.5.0.6.exe"
 }
