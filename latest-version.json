@@ -4,5 +4,5 @@
   "notes": "Fix finestra errore bianca all'avvio — EADDRINUSE gestito localmente, uncaughtException filtra errori dev-only, data: URI di showErrorWindow correttamente encoded.",
   "notes_url": "https://github.com/dev-control-01/meeting-manager-releases/releases/tag/v5.3.5",
   "mac": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.3.5/Meeting.Manager-5.3.5-arm64.dmg",
-  "win": "https://github.com/dev-control-01/meeting-manager-v5/releases/download/v5.0.6/Meeting.Manager.Setup.5.0.6.exe"
+  "win": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.3.5/Meeting.Manager-5.3.5-x64.exe"
 }
