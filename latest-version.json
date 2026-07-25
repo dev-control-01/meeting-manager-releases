@@ -1,8 +1,8 @@
 {
-  "version": "5.3.5",
-  "releaseDate": "2026-05-13",
-  "notes": "Fix finestra errore bianca all'avvio — EADDRINUSE gestito localmente, uncaughtException filtra errori dev-only, data: URI di showErrorWindow correttamente encoded.",
-  "notes_url": "https://github.com/dev-control-01/meeting-manager-releases/releases/tag/v5.3.5",
-  "mac": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.3.5/Meeting.Manager-5.3.5-arm64.dmg",
-  "win": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.3.5/Meeting.Manager-5.3.5-x64.exe"
+  "version": "5.4.0",
+  "releaseDate": "2026-07-25",
+  "notes": "Build self-contained: Python 3.12 embeddable bundled nell'installer. PDF e backup cifrato ora funzionanti su postazioni Windows senza Python installato.",
+  "notes_url": "https://github.com/dev-control-01/meeting-manager-releases/releases/tag/v5.4.0",
+  "mac": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.4.0/Meeting.Manager-5.4.0-arm64.dmg",
+  "win": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.4.0/Meeting.Manager-5.4.0-x64.exe"
 }
